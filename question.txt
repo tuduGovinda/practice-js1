@@ -1,0 +1,17 @@
+question-
+    make a rectangle and when we move mouse on that rectangle on the left side we want to gradually change
+    the color of the rectangle to red and when we move  mouse to the right side we want to change the color
+    to blue.
+
+
+
+approch-
+1.first home pota karna hai ki mouse rectangle par aaya ya nahin✅
+2.uske bad mouse rectangle ke kaun se side main hai left/right✅
+3.uske bad calculate karo ki hum center se kitne left par hai, aur uske hisab se red intensity decide karo
+
+
+newthings-
+use of "gsap"
+
+
